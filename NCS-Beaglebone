@@ -4,3 +4,15 @@ Could add Ubuntu - on the SD but could just port OpenVINO to the image. Otherwis
 1. Use Ellipse rather than bounding box for faces.
 2. Probabilities from networks
 run inference on ncs
+
+
+Run script for taking immage for inference - need usb camera for this. 
+Maybe take image from the feed. 
+
+Taking images are not in real time.
+Must be some way to grab images, and overlay as close to real time as possible. 
+Accelerated learning.
+
+If NCS works with Beaglebone - document the process.
+Easy. Test demo and then create your own.
+
