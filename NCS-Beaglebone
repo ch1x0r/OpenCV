@@ -1,0 +1,6 @@
+Could add Ubuntu - on the SD but could just port OpenVINO to the image. Otherwise, maybe Yocto.
+
+
+1. Use Ellipse rather than bounding box for faces.
+2. Probabilities from networks
+run inference on ncs
