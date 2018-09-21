@@ -1,0 +1,18 @@
+Notes:
+
+The original NCS and NCS 2 are supported by OpenVINO.
+Original NCS: NCSDK works
+NCS2: OpenVINO
+
+Run inference on the NCS using OpenVINO.
+1. Needs preprocessing as OpenVINO requires xml and bin 
+2. Run based on device -d MYRIAD
+
+Showcase:
+VPU Devices 
+- NCS original
+- NCS2
+
+Raspberry Pi
+Beagle Bone Black (recognizes NCS)
+Laptop
