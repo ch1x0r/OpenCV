@@ -16,3 +16,6 @@ Accelerated learning.
 If NCS works with Beaglebone - document the process.
 Easy. Test demo and then create your own.
 
+September 23, 2018
+weekend 1: Cross Compilation based on OpenCV instructions did not work.
+Use Derek Molloy's cross compilation instructions.
